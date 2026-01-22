@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "f79985bb-7054-4e13-a108-091ed40c1c19",
+    "id": "18fa7e7b-dbde-4049-bb01-33025908ec16",
     "projectId": "f9c591c0-f48c-4041-9533-e2202d0a6877",
-    "version": 274,
-    "createdAt": "2026-01-22T20:39:42.496+00:00",
-    "updatedAt": "2026-01-22T20:39:42.496+00:00",
+    "version": 275,
+    "createdAt": "2026-01-22T20:55:39.723+00:00",
+    "updatedAt": "2026-01-22T20:55:39.723+00:00",
     "pages": {
       "meta": {
         "siteName": "Altier Moema",
@@ -27859,7 +27859,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Av. Lavandisca, 465 - Moema, São Paulo"
+              "value": "Alameda Jauaperi, 771 - Moema, São Paulo"
             }
           ]
         }

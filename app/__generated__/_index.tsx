@@ -11,7 +11,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 
       export const projectId = "f9c591c0-f48c-4041-9533-e2202d0a6877";
 
-      export const lastPublished = "2026-01-22T20:39:42.496Z";
+      export const lastPublished = "2026-01-22T20:55:39.723Z";
 
       export const siteName = "Altier Moema";
 
@@ -546,7 +546,7 @@ code={"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" fill
 className={`w-html-embed c2eo9n4`} />
 <Paragraph
 className={`w-paragraph c1o1zmkx cvnvhli cpy6ziw c149l5xv`}>
-{"Av. Lavandisca, 465 - Moema, São Paulo"}
+{"Alameda Jauaperi, 771 - Moema, São Paulo"}
 </Paragraph>
 </Box>
 <Box
