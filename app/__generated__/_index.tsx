@@ -11,7 +11,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 
       export const projectId = "f9c591c0-f48c-4041-9533-e2202d0a6877";
 
-      export const lastPublished = "2026-01-22T20:55:39.723Z";
+      export const lastPublished = "2026-01-22T21:41:53.044Z";
 
       export const siteName = "Altier Moema";
 
@@ -736,7 +736,7 @@ className={`w-paragraph cpy6ziw c149l5xv cnjig1w c1aomvkd c1o1zmkx`}>
 {""}
 <br />
 {""}
-{"O empreendimento possui registro RI | Altaurb 2026 | CRECI SP 51793-J"}
+{"Altaurb 2026 | CRECI SP 51793-J"}
 </Paragraph>
 <Paragraph
 className={`w-paragraph cpy6ziw c149l5xv cnjig1w c1o1zmkx`}>
