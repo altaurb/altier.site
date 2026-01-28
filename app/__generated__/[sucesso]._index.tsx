@@ -10,7 +10,7 @@ import { Box as Box, Heading as Heading, Span as Span, Text as Text, HtmlEmbed a
 
       export const projectId = "f9c591c0-f48c-4041-9533-e2202d0a6877";
 
-      export const lastPublished = "2026-01-22T21:41:53.044Z";
+      export const lastPublished = "2026-01-28T19:37:55.922Z";
 
       export const siteName = "Altier Moema";
 
